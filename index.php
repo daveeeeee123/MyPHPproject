@@ -1,8 +1,4 @@
-<?php echo "Hello<br>";
+<?php
 
+echo strrev("Hello World");
 
- for($x = 0; $x<5; $x++)
- {
-
-    echo("The value of $x <br>");
- } 
